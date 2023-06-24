@@ -16,7 +16,7 @@ I'm Ruth Joy Tolentino a Full Stack Web Developer. I spend most of my free time 
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ruthjoy76.ruthjoy76)
+![](https://komarev.com/ghpvc/?username=ruthjoy76&style=flat-square)
 
 
 
