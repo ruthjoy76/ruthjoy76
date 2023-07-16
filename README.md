@@ -40,7 +40,7 @@ I'm Ruth Joy Tolentino a Full Stack Web Developer. I spend most of my free time 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthjoy76&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ruthjoy76/ruthjoy76/blob/output/github-contribution-grid-snake.svg)
 </details>
 
 
