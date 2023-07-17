@@ -17,7 +17,6 @@ I'm Ruth Joy Tolentino a Full Stack Web Developer. I spend most of my free time 
 
 
 - 🔭 I’m currently working @ Belman Lab
-- 🤔 Currently enrolled at KodeGo
 - 😄 Pronouns: ruthjoy76
 - ⚡ Fun fact: I love watching K dramas.
 
