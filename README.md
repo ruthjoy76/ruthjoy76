@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
     
   [![Twitter Badge](https://img.shields.io/badge/-@joytinaya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joytinaya)](https://twitter.com/joytinaya) [![Linkedin Badge](https://img.shields.io/badge/-ruthjoy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruth-joy-tolentino-25639288/) [![Mail Badge](https://img.shields.io/badge/-@ruthjoy76-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ruthjoy76) [![Mail Badge](https://img.shields.io/badge/-ruthjoy76-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ruthjoy76@gmail.com)
 
