@@ -18,7 +18,7 @@ I'm Ruth Joy Tolentino a Full Stack Web Developer. I spend most of my free time 
 
 - 🔭 I’m currently working @ Belman Lab
 - 😄 Pronouns: ruthjoy76
-- ⚡ Fun fact: I love watching K dramas.
+- ⚡ Fun fact: I love watching K dramas and sketching
 
 ### :hammer_and_wrench: Languages and Tools :
    <div>
