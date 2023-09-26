@@ -15,8 +15,6 @@
 </div>
 I'm Ruth Joy E. Tolentino a Full Stack Web Developer. I spend most of my free time coding and web designing.
 
-
-- 🔭 I’m currently working @ Belman Laboratories
 - 😄 Pronouns: ruthjoy76
 - ⚡ Fun fact: I love watching K dramas and sketching
 
