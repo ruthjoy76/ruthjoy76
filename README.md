@@ -15,7 +15,7 @@
 
 <p align="left">👯 I’m looking to collaborate on **a project about AI**</p>
 
-<p align="left">👨‍💻 All of my projects are available at [https://kodetayo.webflow.io/](https://kodetayo.webflow.io/)</p>
+<p align="left">👨‍💻 All of my projects are available at (https://kodetayo.webflow.io/)</p>
 
 <p align="left">💬 Ask me about **HTML, CSS and react**</p>
 
